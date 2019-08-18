@@ -11,6 +11,9 @@
 	* List all container (running) with Unique IDs.
 	* " -a " to list all the container
 
+### `docker container port <Name>`
+	* Show all exposed ports
+
 ### `docker container stop <unique ID/ Name>`
 	* Stop Container
 
@@ -47,3 +50,6 @@
 
 ## `docker container start -ai`
 	* Start docker interactively
+
+### `docker container inspect --format '{{ .NetworkSettings.IPAddress  }}' nginx`
+	* Shows the Virtual IP of container
