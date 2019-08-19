@@ -11,21 +11,21 @@
 	* List all container (running) with Unique IDs.
 	* " -a " to list all the container
 
-### `docker container port <Name>`
+### `docker container port (Name)`
 	* Show all exposed ports
 
-### `docker container stop <unique ID/ Name>`
+### `docker container stop (unique ID/ Name)`
 	* Stop Container
 
-### Example `docker container run -p 80:80 -d --name <name> nginx`
+### Example `docker container run -p 80:80 -d --name (name) nginx`
 
-### `docker container logs <unique ID/ Name>`
+### `docker container logs (unique ID/ Name)`
 	* To see logs of running container
 
-### `docker container top <name>`
+### `docker container top (name)`
 	* To see process running inside a container
 
-### `docker container rm <ID> <ID> ...`
+### `docker container rm (ID) <ID> ...`
 	* To remove container (not running container)
 	* " -f " to remove Forcefully
 
@@ -33,10 +33,10 @@
 	* To see all running containers
 
 ### Note :: 
-	> `--env` 
+	) `--env` 
 	  * to pass environmental variable when we run docker
 
-### `docker container inspect <name>`
+### `docker container inspect (name)`
 	* Show meta data about the container (startup config, volumes, networking, etc...)
 
 ### `docker container stats`
