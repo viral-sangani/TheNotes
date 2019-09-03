@@ -13,8 +13,8 @@
 DML is short name of Data Manipulation Language which deals with data manipulation and includes most common SQL statements such SELECT, INSERT, UPDATE, DELETE, etc., and it is used to store, modify, retrieve, delete and update data in a database.
 
 * SELECT - retrieve data from a database
-... Eg. [Refer this link for All SELECT queries](https://bytescout.com/blog/20-important-sql-queries.html)
-........[Refer this link for video tutorial on Advance SELECT queries](https://youtu.be/s_RJEcMPYNE)
+	Eg. [Refer this link for All SELECT queries](https://bytescout.com/blog/20-important-sql-queries.html)
+		[Refer this link for video tutorial on Advance SELECT queries](https://youtu.be/s_RJEcMPYNE)
 
 * INSERT - insert data into a table
 ... Eg. [Refer this link for All INSERT queries](https://www.techonthenet.com/sql/insert.php)
