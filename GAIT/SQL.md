@@ -59,21 +59,21 @@ update authorization – which allows modification, but not deletion.
 Examples of DDL commands:  
 
 * CREATE – is used to create the database or its objects (like table, index, function, views, store procedure and triggers).  
-...	Eg. [Refer this link for All CREATE queries](https://www.techonthenet.com/sql/tables/create_table.php)  
+ 	Eg. [Refer this link for All CREATE queries](https://www.techonthenet.com/sql/tables/create_table.php)  
 
 * DROP – is used to delete objects from the database.  
-...	Eg. [Refer this link for All DROP queries](https://www.techonthenet.com/sql/tables/drop_table.php)
+ 	Eg. [Refer this link for All DROP queries](https://www.techonthenet.com/sql/tables/drop_table.php)
 
 * ALTER-is used to alter the structure of the database.  
-...	Eg. [Refer this link for All ALTER queries](https://www.techonthenet.com/sql/tables/alter_table.php)
+ 	Eg. [Refer this link for All ALTER queries](https://www.techonthenet.com/sql/tables/alter_table.php)
 
 * TRUNCATE–is used to remove all records from a table, including all spaces allocated for the records are removed.  
 
 * COMMENT –is used to add comments to the data dictionary.  
-...	Eg. [Refer this link for All Comment Options](https://dev.mysql.com/doc/refman/8.0/en/comments.html)
+ 	Eg. [Refer this link for All Comment Options](https://dev.mysql.com/doc/refman/8.0/en/comments.html)
 
 * RENAME –is used to rename an object existing in the database.  
-...	Eg. [Refer this link for RENAME queries](https://www.javatpoint.com/sql-rename-table)
+ 	Eg. [Refer this link for RENAME queries](https://www.javatpoint.com/sql-rename-table)
 
 
 # DCl
@@ -83,6 +83,7 @@ The operations for which privileges may be granted to or revoked from a user or 
 
 In the Oracle database, executing a DCL command issues an implicit commit. Hence, you cannot roll back the command.
 
-* GRANT - allow users access privileges to the database
-* REVOKE - withdraw users access privileges given by using the GRANT command
-... Eg. [Reger this link for GRANT/REVOKE queries](https://www.techonthenet.com/sql_server/grant_revoke.php)
+* GRANT - allow users access privileges to the database  
+* REVOKE - withdraw users access privileges given by using the GRANT command  
+
+Eg. [Reger this link for GRANT/REVOKE queries](https://www.techonthenet.com/sql_server/grant_revoke.php)
